@@ -13,7 +13,6 @@ BuildArch:	noarch
 Source0: 	%{module}-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%module/
 BuildRequires:	perl-devel
-BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot/
 
 %description
 Copies files to directories, or a single file to another file.
