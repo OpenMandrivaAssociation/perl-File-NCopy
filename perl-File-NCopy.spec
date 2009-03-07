@@ -1,7 +1,7 @@
 %define	module	File-NCopy
 %define	name	perl-%{module}
 %define	version	0.36
-%define	release	%mkrel 2
+%define	release	%mkrel 3
 
 Summary: 	Copies files to directories, or a single file to another file
 Name:		%{name}
