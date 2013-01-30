@@ -9,7 +9,7 @@ Summary:	Copies files to directories, or a single file to another file
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}/
-Source0:	http://www.cpan.org/modules/by-module/%{upstream_name}-%{upstream_version}.tar.bz2
+Source0:	http://search.cpan.org/CPAN/authors/id/C/CH/CHORNY/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	perl-devel
 BuildArch:	noarch
